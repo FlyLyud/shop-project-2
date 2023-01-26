@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 
-const h1 = React.createElement('h1', { id: 'title' }, 'Hello React')
+/*const h1 = React.createElement('h1', { id: 'title' }, 'Hello React')
 
 /*const list = React.createElement(
     'ul',
@@ -11,10 +11,20 @@ const h1 = React.createElement('h1', { id: 'title' }, 'Hello React')
     React.createElement('li', null, 'list Item 3')
 )*/
 
+//jsx
+const h1 = (
+    <h1 id="title" className="dfdf">
+        Hello React.js
+    </h1>
+)
+console.log(h1)
+
+let a = 10
+let b = 'Hello test'
 const list = (
     <ul>
-        <li>List item 1</li>
-        <li>List item 2</li>
+        <li>List item {a + 10 + 10}</li>
+        <li>List item {b}</li>
         <li>List item 3</li>
     </ul>
 )
