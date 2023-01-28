@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import Content from './Content'
+import { Content } from './Content'
 
 interface ITitleProps {
     text: string
@@ -16,7 +16,11 @@ function App() {
         <>
             <Title text="React" />
             <Title text="TS" />
-            <Content text1="Hello world1" text2="Hello world2" year={2023} />
+            <Content
+                text1={'Hello world 1'}
+                text2={'Hello world 2'}
+                year={2023}
+            />
         </>
     )
 }
