@@ -17,8 +17,10 @@ function App() {
             <Title text="React" />
             <Title text="TS" />
             <Content
-                text1={'Hello world 1'}
-                text2={'Hello world 2'}
+                text1={
+                    'Hello world Lorem Hello world Lorem  Hello world Lorem  Hello world Lorem'
+                }
+                text2={' Lorem Hello world 2'}
                 year={2023}
             />
         </>
