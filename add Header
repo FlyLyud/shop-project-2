@@ -1,0 +1,95 @@
+[33mcommit aafb67592c2fe29db2befd6e696eaa849e3d72be[m[33m ([m[1;36mHEAD -> [m[1;32mlesson-5[m[33m)[m
+Author: Пристрій УЦОЯО <t2252@mon.gov.ua>
+Date:   Thu Feb 2 15:30:31 2023 +0200
+
+    add Header
+
+[33mcommit fade0e8dc4b79fb0584095acefbcaa4229b58c61[m
+Author: Пристрій УЦОЯО <t2252@mon.gov.ua>
+Date:   Thu Feb 2 13:42:13 2023 +0200
+
+    add mui library
+
+[33mcommit 7af643d4b5f36b1a16f9d03ad9171ec1d95cd520[m[33m ([m[1;32mlesson-4[m[33m)[m
+Author: Пристрій УЦОЯО <t2252@mon.gov.ua>
+Date:   Thu Feb 2 12:15:03 2023 +0200
+
+    add App,Header,Main,Footer
+
+[33mcommit f513b6af8d8af3a5ecdc4eda433f12ccb67b133a[m[33m ([m[1;32mlesson-3[m[33m)[m
+Author: Пристрій УЦОЯО <t2252@mon.gov.ua>
+Date:   Sun Jan 29 16:22:21 2023 +0200
+
+    Чистка файлів і додавання абсолютного імпорту
+
+[33mcommit 4235cf1408c547b9432d54d1a26c8df067c96556[m
+Author: Пристрій УЦОЯО <t2252@mon.gov.ua>
+Date:   Sun Jan 29 13:30:18 2023 +0200
+
+    Можливість підключати файл css у вигляді модуля
+
+[33mcommit f6a5b4b0dcda5342be246769e9b7dc0623eabccb[m
+Author: Пристрій УЦОЯО <t2252@mon.gov.ua>
+Date:   Sun Jan 29 12:46:58 2023 +0200
+
+    Створення і підключення файлу  Content css до Content.tsx
+
+[33mcommit 7963f7ec50446e7e63807d12a09c4ea9e7b3c53f[m
+Author: Пристрій УЦОЯО <t2252@mon.gov.ua>
+Date:   Sat Jan 28 21:57:17 2023 +0200
+
+    Створення компоненти Іменований експорт
+
+[33mcommit 8f660634a86231f8ce6895f83ae1ed0cd28f63a1[m
+Author: Пристрій УЦОЯО <t2252@mon.gov.ua>
+Date:   Sat Jan 28 16:44:00 2023 +0200
+
+    Створення компоненти і дефолтни експорт
+
+[33mcommit 27a9cfae2b9aa8fe1abd083b01d0cac94cf9d455[m
+Author: Пристрій УЦОЯО <t2252@mon.gov.ua>
+Date:   Sat Jan 28 13:38:07 2023 +0200
+
+    Компоненти і їх типи props
+
+[33mcommit 26522e3f7433018becf1de2257e53c2bd95d9c5e[m[33m ([m[1;32mlesson-2[m[33m)[m
+Author: Пристрій УЦОЯО <t2252@mon.gov.ua>
+Date:   Thu Jan 26 15:36:46 2023 +0200
+
+    Форма запису React.Fragment
+
+[33mcommit 40bb6e7621c61387ec6bf83b97466cfd7ea051af[m
+Author: Пристрій УЦОЯО <t2252@mon.gov.ua>
+Date:   Thu Jan 26 12:17:40 2023 +0200
+
+    Правила роботи з jsx
+
+[33mcommit 2462ebed05bff4d16d00d84eabb733acf86fb8f7[m
+Author: Пристрій УЦОЯО <t2252@mon.gov.ua>
+Date:   Thu Jan 26 11:35:57 2023 +0200
+
+    Створення реакт елементівз jsx
+
+[33mcommit 14e4d379da99a0a9f7f447be2e97a7c96a34fe62[m
+Author: Пристрій УЦОЯО <t2252@mon.gov.ua>
+Date:   Thu Jan 26 11:08:34 2023 +0200
+
+    Створення елементів в реакт
+
+[33mcommit 4bb3a80f9c7189f295c90d280cef695ec95e1e52[m
+Author: Пристрій УЦОЯО <t2252@mon.gov.ua>
+Date:   Wed Jan 25 22:49:01 2023 +0200
+
+    add prettier
+
+[33mcommit e7bf1bc0d50d04b17ebdf29c52db138393b6df36[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Пристрій УЦОЯО <t2252@mon.gov.ua>
+Date:   Wed Jan 25 20:49:03 2023 +0200
+
+    add files 1
+
+[33mcommit bd209e04b2d45e984c84c0805baa08987bb31713[m
+Author: Пристрій УЦОЯО <t2252@mon.gov.ua>
+Date:   Sat Jan 21 20:54:23 2023 +0200
+
+    Initialize project using Create React App
