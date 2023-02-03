@@ -11,7 +11,7 @@ type Props = {}
 const Header = (props: Props) => {
     return (
         // <div>Header</div>
-        <AppBar position="static" className="app-bar">
+        <AppBar position="static" className="app-bar1">
             <Container>
                 <Toolbar>
                     <IconButton
